@@ -1,0 +1,19 @@
+{
+  "name": "recipeapp",
+  "version": "1.0.0",
+  "description": "Social Media platform specific to Food and Recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashyapkathrani/RecipeApp.git"
+  },
+  "author": "Kashyap Kathrani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashyapkathrani/RecipeApp/issues"
+  },
+  "homepage": "https://github.com/kashyapkathrani/RecipeApp#readme"
+}
